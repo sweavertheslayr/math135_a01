@@ -133,5 +133,7 @@ int main()
 				<< "\n(c) " << negate("\\exists x\\in\\mathbb{R},\\;\\forall n\\in\\mathbb{N},\\; (x<n)\\lor (x^2=n)")
 				<< "\n(d) " << negate("\\forall a,b,c\\in\\mathbb{Z},\\; a^2+b^2=c^2");
 
+ std::cout << "hello world\n";
+
 	std::cout << std::endl;
 }
