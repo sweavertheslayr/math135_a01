@@ -1,0 +1,21 @@
+#
+# . to seperate negated value
+#
+# quantifiers
+#
+\forall.\exists 
+\exists.\forall 
+#
+# comparison operators
+#
+=.\neq 
+\neq.=
+>.\leq 
+\leq.>
+<.\geq 
+\geq.<
+#
+# boolean operators
+#
+\land.\lor
+\lor.land
